@@ -1,65 +1,105 @@
-# The Economist Public Notes
-
 <div align="center">
 
-![The Economist](https://img.shields.io/badge/The%20Economist-Public%20Notes-red?style=for-the-badge&logo=the-economist)
-![Scope](https://img.shields.io/badge/Scope-Notes%20%26%20Analysis-green?style=for-the-badge)
-![Files](https://img.shields.io/badge/Content%20Files-Not%20Hosted-lightgrey?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-English-orange?style=for-the-badge)
+# 📰 TE Weekly
 
-**Reading notes, issue references, and blog analysis for English learners.**
+**Read the whole issue. Find the argument.**
 
-[Blog Analysis](https://blog.evanzhou.org/) | [中文版](./README_CN.md)
+[![Read TE Weekly](https://img.shields.io/badge/🌐_Read_TE_Weekly-blog.evanzhou.org-red?style=for-the-badge)](https://blog.evanzhou.org/series/te-weekly)
+
+English | [简体中文](./README_CN.md)
 
 </div>
 
 ---
 
-> [!IMPORTANT]
-> **Notice**
+> [!NOTE]
+> **Repository transition:** This repository has undergone a major transformation—from a weekly magazine archive into the public home of **TE Weekly**, a series of issue-level reviews and occasional close readings published on [Cell by Cell](https://blog.evanzhou.org/series/te-weekly).
 >
-> This repository began as a personal reading and language-learning project
-> around *The Economist*, with notes intended to help English learners,
-> especially students preparing for exams, engage with serious long-form writing.
+> **Latest issue:** TE 2026-07-18: The More You Control, the Less You Can Choose — [English](https://blog.evanzhou.org/english/te-2026-07-18) | [中文](https://blog.evanzhou.org/zh/english/te-2026-07-18-zh)
 >
-> This public repository no longer hosts *The Economist* content files in any
-> format.
+> From a dimming Earth, the Strait of Hormuz and America’s Department of Justice to sovereign AI, China’s marriage crisis and urban nightlife, this issue reveals a recurring mechanism: attempts to eliminate risk and dependence often create new vulnerabilities and narrow the choices available later.
 >
-> This change was made after repeated distribution-related complaints from a
-> third-party distributor. The repository will remain public only as a
-> reading-notes, issue-index, and blog-analysis project.
+> **Last updated:** July 19th, 2026
 
 ---
 
-## 📌 Current Scope
+## 📖 About TE Weekly
 
-This repository is currently scoped around public reading notes, issue
-references, and links to related analysis.
+**TE Weekly** publishes issue-level reviews built around each weekly issue of *The Economist*, alongside occasional close readings of individual articles and ideas.
 
-It may include:
+Rather than summarising articles one by one, every review looks for the argument running through the issue: the shared tension behind stories about politics, business, technology, science and culture. The aim is to turn a week of reporting into a clear framework for understanding the world—and to collect the English worth reusing along the way.
 
-- repository notices
-- reading notes and issue references
-- links to blog analysis
-- bilingual public documentation
+🔗 **Read online:** [TE Weekly Archive](https://blog.evanzhou.org/series/te-weekly)
 
-## 🚫 Unsupported Content
+---
 
-The following content is intentionally not supported in this public branch:
+## ✍️ What I Publish
 
-| Content | Status |
-| --- | --- |
-| PDF files | Not hosted |
-| EPUB files | Not hosted |
-| MOBI files | Not hosted |
-| AZW3 files | Not hosted |
-| Cover images and extracted JPG files | Not hosted |
+### Weekly Review
 
-## 📝 Blog Analysis
+The main series. Each issue is organised around one central claim, supported by several connected themes rather than a tour through the table of contents.
 
-Long-form analysis and reading notes are published on the blog:
+### Close Reading
 
-**[Evan's Blog](https://blog.evanzhou.org/)**
+Occasional author-led essays on a single article or idea. These are independent of the weekly schedule and may return to an older issue whenever a subject deserves more time.
 
-This repository may point to those posts, but the blog remains the main place
-for issue-level commentary.
+### Language Roundup
+
+Quarterly selections of the most reusable expressions from recent issues, organised by what they do in an argument—not simply by their dictionary meanings.
+
+---
+
+## 🔍 Inside Each Review
+
+- **One central argument** connecting the issue as a whole
+- **Four to seven themes** that move from events to mechanisms and constraints
+- **A reservations section** asking what the magazine’s framing leaves out
+- **Four things to watch** that can be tested against future developments
+- **Eight to twelve expressions** with meaning, tone, original examples and usage notes
+- **An argument in practice** showing how several expressions work together in a paragraph
+
+Reviews use a neutral editorial voice. Close-reading essays leave more room for the author’s own perspective.
+
+---
+
+## 🗓️ Publishing Rhythm
+
+*The Economist* publishes on Friday. TE Weekly is usually prepared over the weekend and published on Sunday.
+
+The rhythm is intentionally flexible: some weeks may be skipped, while close readings can appear at any time. Reviews are prepared in both English and Chinese and published through Notion on **Cell by Cell**.
+
+---
+
+## 🌐 Read Online
+
+All reviews, close readings and language roundups are published on the blog:
+
+### [Open the TE Weekly Archive →](https://blog.evanzhou.org/series/te-weekly)
+
+---
+
+## 📧 Contact
+
+- 📮 Email: [evanzhou.bio@gmail.com](mailto:evanzhou.bio@gmail.com)
+- 🐙 GitHub: [@evanbio](https://github.com/evanbio)
+- 📝 Blog: [blog.evanzhou.org](https://blog.evanzhou.org/)
+
+Questions, suggestions and reading recommendations are always welcome.
+
+---
+
+## 📄 License
+
+[CC BY-NC-SA 4.0](LICENSE) — share and adapt with attribution, for non-commercial use, under the same license.
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Evan Zhou**
+
+*Read widely. Think across the issue. Keep the language that travels.*
+
+[Read TE Weekly →](https://blog.evanzhou.org/series/te-weekly)
+
+</div>
