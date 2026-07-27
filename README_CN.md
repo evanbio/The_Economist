@@ -15,11 +15,11 @@
 > [!NOTE]
 > **仓库转型：** 本仓库目前已经完成一次较大的方向调整——从每周杂志归档转为 **TE Weekly** 的公开项目主页。TE Weekly 在 [Cell by Cell](https://blog.evanzhou.org/series/te-weekly) 发布整期评论与不定期文章精读。
 >
-> **最新一期：** TE 2026-07-18: The More You Control, the Less You Can Choose — [English](https://blog.evanzhou.org/english/te-2026-07-18) | [中文](https://blog.evanzhou.org/zh/english/te-2026-07-18-zh)
+> **最新一期：** TE 2026-07-25: The Rule-Makers Are Escaping the Rules — [English](https://blog.evanzhou.org/english/te-2026-07-25) | [中文](https://blog.evanzhou.org/zh/english/te-2026-07-25-zh)
 >
-> 这一期从地球变暗、霍尔木兹海峡和美国司法部写到主权 AI、中国婚育困境与城市夜生活，共同揭示一个反复出现的机制：试图消除风险和依赖的控制手段，往往会制造新的脆弱性，并让未来的选择越来越少。
+> 这一期从马斯克、越界的 AI 模型与预测市场写到中国技术标准、英国怀旧政治和尼加拉瓜威权化，追问同一个问题：当制定、解释或绕开规则的人，比负责问责的制度成长得更快，会发生什么？
 >
-> **更新时间：** 2026 年 7 月 19 日
+> **更新时间：** 2026 年 7 月 27 日
 
 ---
 

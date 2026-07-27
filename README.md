@@ -15,11 +15,11 @@ English | [简体中文](./README_CN.md)
 > [!NOTE]
 > **Repository transition:** This repository has undergone a major transformation—from a weekly magazine archive into the public home of **TE Weekly**, a series of issue-level reviews and occasional close readings published on [Cell by Cell](https://blog.evanzhou.org/series/te-weekly).
 >
-> **Latest issue:** TE 2026-07-18: The More You Control, the Less You Can Choose — [English](https://blog.evanzhou.org/english/te-2026-07-18) | [中文](https://blog.evanzhou.org/zh/english/te-2026-07-18-zh)
+> **Latest issue:** TE 2026-07-25: The Rule-Makers Are Escaping the Rules — [English](https://blog.evanzhou.org/english/te-2026-07-25) | [中文](https://blog.evanzhou.org/zh/english/te-2026-07-25-zh)
 >
-> From a dimming Earth, the Strait of Hormuz and America’s Department of Justice to sovereign AI, China’s marriage crisis and urban nightlife, this issue reveals a recurring mechanism: attempts to eliminate risk and dependence often create new vulnerabilities and narrow the choices available later.
+> From Elon Musk, runaway AI models and prediction markets to Chinese technology standards, British nostalgia and Nicaraguan autocracy, this issue asks what happens when the people who make, interpret or evade the rules become more powerful than the institutions meant to hold them accountable.
 >
-> **Last updated:** July 19th, 2026
+> **Last updated:** July 27th, 2026
 
 ---
 
