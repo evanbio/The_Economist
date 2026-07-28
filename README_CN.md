@@ -70,11 +70,21 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 ---
 
-## 🌐 在线阅读
+<a id="archive"></a>
 
-所有 Review、作者精读与语言 Roundup 都发布在博客：
+## 🗂️ 往期归档
 
-### [打开 TE Weekly Archive →](https://blog.evanzhou.org/series/te-weekly)
+每期 Review 都以中英双语发布在博客。本表即栏目目录：新一期发布时加一行，缺期直接跳过，不留占位。
+
+### 2026
+
+| 期号 | Review | 中文版 | 作者精读 |
+| --- | --- | --- | --- |
+| 7 月 25 日 | [The Rule-Makers Are Escaping the Rules](https://blog.evanzhou.org/english/te-2026-07-25) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-25-zh) | — |
+| 7 月 18 日 | [The More You Control, the Less You Can Choose](https://blog.evanzhou.org/english/te-2026-07-18) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-18-zh) | — |
+| 7 月 11 日 | [Ambition Is Cheap, Capacity Is Scarce](https://blog.evanzhou.org/english/te-2026-07-11) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-11-zh) | — |
+
+### [在 Cell by Cell 阅读本栏目 →](https://blog.evanzhou.org/series/te-weekly)
 
 ---
 

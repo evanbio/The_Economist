@@ -70,11 +70,21 @@ The rhythm is intentionally flexible: some weeks may be skipped, while close rea
 
 ---
 
-## 🌐 Read Online
+<a id="archive"></a>
 
-All reviews, close readings and language roundups are published on the blog:
+## 🗂️ Issue Archive
 
-### [Open the TE Weekly Archive →](https://blog.evanzhou.org/series/te-weekly)
+Every review is published on the blog in both languages. This table is the index; new issues are added when published, and skipped weeks are left blank rather than filled with placeholders.
+
+### 2026
+
+| Issue | Review | 中文 | Close Reading |
+| --- | --- | --- | --- |
+| July 25 | [The Rule-Makers Are Escaping the Rules](https://blog.evanzhou.org/english/te-2026-07-25) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-25-zh) | — |
+| July 18 | [The More You Control, the Less You Can Choose](https://blog.evanzhou.org/english/te-2026-07-18) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-18-zh) | — |
+| July 11 | [Ambition Is Cheap, Capacity Is Scarce](https://blog.evanzhou.org/english/te-2026-07-11) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-11-zh) | — |
+
+### [Read the series on Cell by Cell →](https://blog.evanzhou.org/series/te-weekly)
 
 ---
 
