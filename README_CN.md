@@ -4,7 +4,7 @@
 
 **读完整期，找到真正的论点。**
 
-[![阅读 TE Weekly](https://img.shields.io/badge/🌐_阅读_TE_Weekly-blog.evanzhou.org-red?style=for-the-badge)](https://blog.evanzhou.org/series/te-weekly)
+[![阅读 TE Weekly](https://img.shields.io/badge/🌐_阅读_TE_Weekly-blog.evanzhou.org-red?style=for-the-badge)](https://blog.evanzhou.org/zh/series/te-weekly)
 
 [English](./README.md) | 简体中文
 
@@ -13,13 +13,13 @@
 ---
 
 > [!NOTE]
-> **仓库转型：** 本仓库目前已经完成一次较大的方向调整——从每周杂志归档转为 **TE Weekly** 的公开项目主页。TE Weekly 在 [Cell by Cell](https://blog.evanzhou.org/series/te-weekly) 发布整期评论与不定期文章精读。
+> **仓库转型：** 本仓库目前已经完成一次较大的方向调整——从每周杂志归档转为 **TE Weekly** 的公开项目主页。TE Weekly 在 [Cell by Cell](https://blog.evanzhou.org/zh/series/te-weekly) 发布整期评论与不定期文章精读。
 >
-> **最新一期：** TE 2026-07-25: The Rule-Makers Are Escaping the Rules — [English](https://blog.evanzhou.org/english/te-2026-07-25) | [中文](https://blog.evanzhou.org/zh/english/te-2026-07-25-zh)
+> **最新一期：** TE 2026-08-01：未来是一个维护问题 — [English](https://blog.evanzhou.org/en/posts/te-2026-08-01) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-01)
 >
-> 这一期从马斯克、越界的 AI 模型与预测市场写到中国技术标准、英国怀旧政治和尼加拉瓜威权化，追问同一个问题：当制定、解释或绕开规则的人，比负责问责的制度成长得更快，会发生什么？
+> 这一期从后量子加密、欧洲山火和亚洲威慑写到 AI 编辑、美国创业潮与金融欺诈，指出现代社会往往善于宣布突破，却不善于维护让进步变得安全而持久的制度。文末另选 10 个值得带走的英文表达。
 >
-> **更新时间：** 2026 年 7 月 27 日
+> **更新时间：** 2026 年 8 月 3 日
 
 ---
 
@@ -29,7 +29,7 @@
 
 它不按目录逐篇摘要，而是寻找贯穿整期的共同论点：政治、商业、技术、科学与文化报道背后，是否反复出现同一种矛盾？这个栏目希望把一周的报道整理成理解世界的清晰框架，也把其中真正值得复用的英文表达保留下来。
 
-🔗 **在线阅读：** [TE Weekly Archive](https://blog.evanzhou.org/series/te-weekly)
+🔗 **在线阅读：** [TE Weekly Archive](https://blog.evanzhou.org/zh/series/te-weekly)
 
 ---
 
@@ -76,15 +76,18 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 每期 Review 都以中英双语发布在博客。本表即栏目目录：新一期发布时加一行，缺期直接跳过，不留占位。
 
+<!-- BEGIN:te-weekly-archive -->
 ### 2026
 
-| 期号 | Review | 中文版 | 作者精读 |
-| --- | --- | --- | --- |
-| 7 月 25 日 | [The Rule-Makers Are Escaping the Rules](https://blog.evanzhou.org/english/te-2026-07-25) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-25-zh) | — |
-| 7 月 18 日 | [The More You Control, the Less You Can Choose](https://blog.evanzhou.org/english/te-2026-07-18) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-18-zh) | — |
-| 7 月 11 日 | [Ambition Is Cheap, Capacity Is Scarce](https://blog.evanzhou.org/english/te-2026-07-11) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-11-zh) | — |
+| 期号 | 出刊日期 | Review | English |
+| ---: | --- | --- | --- |
+| 04 | 8 月 1 日 | [未来是一个维护问题](https://blog.evanzhou.org/zh/posts/te-2026-08-01) | [English](https://blog.evanzhou.org/en/posts/te-2026-08-01) |
+| 03 | 7 月 25 日 | [制定规则的人，正在逃离规则](https://blog.evanzhou.org/zh/posts/te-2026-07-25) | [English](https://blog.evanzhou.org/en/posts/te-2026-07-25) |
+| 02 | 7 月 18 日 | [控制越多，选择越少](https://blog.evanzhou.org/zh/posts/te-2026-07-18) | [English](https://blog.evanzhou.org/en/posts/te-2026-07-18) |
+| 01 | 7 月 11 日 | [雄心廉价，能力稀缺](https://blog.evanzhou.org/zh/posts/te-2026-07-11) | [English](https://blog.evanzhou.org/en/posts/te-2026-07-11) |
 
-### [在 Cell by Cell 阅读本栏目 →](https://blog.evanzhou.org/series/te-weekly)
+### [在 Cell by Cell 阅读本栏目 →](https://blog.evanzhou.org/zh/series/te-weekly)
+<!-- END:te-weekly-archive -->
 
 ---
 
@@ -92,7 +95,7 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 - 📮 邮箱：[evanzhou.bio@gmail.com](mailto:evanzhou.bio@gmail.com)
 - 🐙 GitHub：[@evanbio](https://github.com/evanbio)
-- 📝 博客：[blog.evanzhou.org](https://blog.evanzhou.org/)
+- 📝 博客：[blog.evanzhou.org](https://blog.evanzhou.org/zh)
 
 欢迎交流问题、建议和阅读线索。
 
@@ -110,6 +113,6 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 *广泛阅读，跨越整期思考，留下真正能带走的语言。*
 
-[阅读 TE Weekly →](https://blog.evanzhou.org/series/te-weekly)
+[阅读 TE Weekly →](https://blog.evanzhou.org/zh/series/te-weekly)
 
 </div>

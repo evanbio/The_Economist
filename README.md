@@ -4,7 +4,7 @@
 
 **Read the whole issue. Find the argument.**
 
-[![Read TE Weekly](https://img.shields.io/badge/🌐_Read_TE_Weekly-blog.evanzhou.org-red?style=for-the-badge)](https://blog.evanzhou.org/series/te-weekly)
+[![Read TE Weekly](https://img.shields.io/badge/🌐_Read_TE_Weekly-blog.evanzhou.org-red?style=for-the-badge)](https://blog.evanzhou.org/en/series/te-weekly)
 
 English | [简体中文](./README_CN.md)
 
@@ -13,13 +13,13 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Repository transition:** This repository has undergone a major transformation—from a weekly magazine archive into the public home of **TE Weekly**, a series of issue-level reviews and occasional close readings published on [Cell by Cell](https://blog.evanzhou.org/series/te-weekly).
+> **Repository transition:** This repository has undergone a major transformation—from a weekly magazine archive into the public home of **TE Weekly**, a series of issue-level reviews and occasional close readings published on [Cell by Cell](https://blog.evanzhou.org/en/series/te-weekly).
 >
-> **Latest issue:** TE 2026-07-25: The Rule-Makers Are Escaping the Rules — [English](https://blog.evanzhou.org/english/te-2026-07-25) | [中文](https://blog.evanzhou.org/zh/english/te-2026-07-25-zh)
+> **Latest issue:** TE 2026-08-01: The Future Is a Maintenance Problem — [English](https://blog.evanzhou.org/en/posts/te-2026-08-01) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-01)
 >
-> From Elon Musk, runaway AI models and prediction markets to Chinese technology standards, British nostalgia and Nicaraguan autocracy, this issue asks what happens when the people who make, interpret or evade the rules become more powerful than the institutions meant to hold them accountable.
+> From post-quantum encryption, wildfires and Asian deterrence to AI editing, American entrepreneurship and financial fraud, this issue argues that societies are better at announcing breakthroughs than maintaining the systems that make progress safe and durable. It concludes with 10 useful English expressions from the issue.
 >
-> **Last updated:** July 27th, 2026
+> **Last updated:** August 3, 2026
 
 ---
 
@@ -29,7 +29,7 @@ English | [简体中文](./README_CN.md)
 
 Rather than summarising articles one by one, every review looks for the argument running through the issue: the shared tension behind stories about politics, business, technology, science and culture. The aim is to turn a week of reporting into a clear framework for understanding the world—and to collect the English worth reusing along the way.
 
-🔗 **Read online:** [TE Weekly Archive](https://blog.evanzhou.org/series/te-weekly)
+🔗 **Read online:** [TE Weekly Archive](https://blog.evanzhou.org/en/series/te-weekly)
 
 ---
 
@@ -76,15 +76,18 @@ The rhythm is intentionally flexible: some weeks may be skipped, while close rea
 
 Every review is published on the blog in both languages. This table is the index; new issues are added when published, and skipped weeks are left blank rather than filled with placeholders.
 
+<!-- BEGIN:te-weekly-archive -->
 ### 2026
 
-| Issue | Review | 中文 | Close Reading |
-| --- | --- | --- | --- |
-| July 25 | [The Rule-Makers Are Escaping the Rules](https://blog.evanzhou.org/english/te-2026-07-25) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-25-zh) | — |
-| July 18 | [The More You Control, the Less You Can Choose](https://blog.evanzhou.org/english/te-2026-07-18) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-18-zh) | — |
-| July 11 | [Ambition Is Cheap, Capacity Is Scarce](https://blog.evanzhou.org/english/te-2026-07-11) | [中文版](https://blog.evanzhou.org/zh/english/te-2026-07-11-zh) | — |
+| No. | Edition | Review | 中文 |
+| ---: | --- | --- | --- |
+| 04 | August 1 | [The Future Is a Maintenance Problem](https://blog.evanzhou.org/en/posts/te-2026-08-01) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-08-01) |
+| 03 | July 25 | [The Rule-Makers Are Escaping the Rules](https://blog.evanzhou.org/en/posts/te-2026-07-25) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-07-25) |
+| 02 | July 18 | [The More You Control, the Less You Can Choose](https://blog.evanzhou.org/en/posts/te-2026-07-18) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-07-18) |
+| 01 | July 11 | [Ambition Is Cheap, Capacity Is Scarce](https://blog.evanzhou.org/en/posts/te-2026-07-11) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-07-11) |
 
-### [Read the series on Cell by Cell →](https://blog.evanzhou.org/series/te-weekly)
+### [Read the series on Cell by Cell →](https://blog.evanzhou.org/en/series/te-weekly)
+<!-- END:te-weekly-archive -->
 
 ---
 
@@ -92,7 +95,7 @@ Every review is published on the blog in both languages. This table is the index
 
 - 📮 Email: [evanzhou.bio@gmail.com](mailto:evanzhou.bio@gmail.com)
 - 🐙 GitHub: [@evanbio](https://github.com/evanbio)
-- 📝 Blog: [blog.evanzhou.org](https://blog.evanzhou.org/)
+- 📝 Blog: [blog.evanzhou.org](https://blog.evanzhou.org/en)
 
 Questions, suggestions and reading recommendations are always welcome.
 
@@ -110,6 +113,6 @@ Questions, suggestions and reading recommendations are always welcome.
 
 *Read widely. Think across the issue. Keep the language that travels.*
 
-[Read TE Weekly →](https://blog.evanzhou.org/series/te-weekly)
+[Read TE Weekly →](https://blog.evanzhou.org/en/series/te-weekly)
 
 </div>

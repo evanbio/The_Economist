@@ -1,0 +1,42 @@
+name: Sync TE Weekly archive
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-te-weekly-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: Update generated archive blocks
+        run: node scripts/sync-issue-archive.mjs
+
+      - name: Commit changes when needed
+        run: |
+          if git diff --quiet -- README.md README_CN.md; then
+            echo "The issue archive is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md README_CN.md
+          git commit -m "docs: sync TE Weekly issue archive"
+          git push
