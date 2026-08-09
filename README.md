@@ -13,13 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Repository transition:** This repository has undergone a major transformation—from a weekly magazine archive into the public home of **TE Weekly**, a series of issue-level reviews and occasional close readings published on [Cell by Cell](https://blog.evanzhou.org/en/series/te-weekly).
+> **Latest issue:** TE 2026-08-08: When Action Gets Cheap, Institutions Pay the Bill — [English](https://blog.evanzhou.org/en/posts/te-2026-08-08) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-08)
 >
-> **Latest issue:** TE 2026-08-01: The Future Is a Maintenance Problem — [English](https://blog.evanzhou.org/en/posts/te-2026-08-01) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-01)
+> From Chinese jobs, British litigation and autonomous AI attacks to Korean chip wealth, public debt, Hormuz and Sudan, this issue shows that cheaper action does not automatically produce productivity; it first creates problems of congestion, liability and distribution. It concludes with 10 useful English expressions.
 >
-> From post-quantum encryption, wildfires and Asian deterrence to AI editing, American entrepreneurship and financial fraud, this issue argues that societies are better at announcing breakthroughs than maintaining the systems that make progress safe and durable. It concludes with 10 useful English expressions from the issue.
->
-> **Last updated:** August 3, 2026
+> **Last updated:** August 9, 2026
 
 ---
 
