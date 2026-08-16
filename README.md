@@ -79,6 +79,7 @@ Every review is published on the blog in both languages. This table is the index
 
 | No. | Edition | Review | 中文 |
 | ---: | --- | --- | --- |
+| 06 | August 15 | [Control Is Not the Same as Capacity](https://blog.evanzhou.org/en/posts/te-2026-08-15) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-08-15) |
 | 05 | August 8 | [When Action Gets Cheap, Institutions Pay the Bill](https://blog.evanzhou.org/en/posts/te-2026-08-08) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-08-08) |
 | 04 | August 1 | [The Future Is a Maintenance Problem](https://blog.evanzhou.org/en/posts/te-2026-08-01) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-08-01) |
 | 03 | July 25 | [The Rule-Makers Are Escaping the Rules](https://blog.evanzhou.org/en/posts/te-2026-07-25) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-07-25) |
