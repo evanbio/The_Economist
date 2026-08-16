@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-08-08: When Action Gets Cheap, Institutions Pay the Bill — [English](https://blog.evanzhou.org/en/posts/te-2026-08-08) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-08)
+> **Latest issue:** TE 2026-08-15: Control Is Not the Same as Capacity — [English](https://blog.evanzhou.org/en/posts/te-2026-08-15) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-15)
 >
-> From Chinese jobs, British litigation and autonomous AI attacks to Korean chip wealth, public debt, Hormuz and Sudan, this issue shows that cheaper action does not automatically produce productivity; it first creates problems of congestion, liability and distribution. It concludes with 10 useful English expressions.
+> From Afghanistan, Venezuela and presidential tariff powers to Chinese oil reserves, Taiwanese gridlock, AI agents and embryo screening, this issue distinguishes visible control from the institutional capacity to produce durable outcomes. It concludes with 10 useful English expressions.
 >
-> **Last updated:** August 9, 2026
+> **Last updated:** August 16, 2026
 
 ---
 
