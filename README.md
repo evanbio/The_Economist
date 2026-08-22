@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-08-15: Control Is Not the Same as Capacity — [English](https://blog.evanzhou.org/en/posts/te-2026-08-15) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-15)
+> **Latest issue:** TE 2026-08-22: When Signals Become Targets, Systems Lose the Plot — [English](https://blog.evanzhou.org/en/posts/te-2026-08-22) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-22)
 >
-> From Afghanistan, Venezuela and presidential tariff powers to Chinese oil reserves, Taiwanese gridlock, AI agents and embryo screening, this issue distinguishes visible control from the institutional capacity to produce durable outcomes. It concludes with 10 useful English expressions.
+> From AI consciousness and data-centre forecasts to China’s unemployment rate, stock indices, trade routes and the Strait of Hormuz, this issue shows how proxies become misleading when institutions start managing them as goals. It concludes with 10 useful English expressions.
 >
-> **Last updated:** August 16, 2026
+> **Last updated:** August 22, 2026
 
 ---
 
