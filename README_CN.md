@@ -79,6 +79,7 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 | 期号 | 出刊日期 | Review | English |
 | ---: | --- | --- | --- |
+| 08 | 8 月 29 日 | [权力可以迫使服从，却未必带来控制](https://blog.evanzhou.org/zh/posts/te-2026-08-29) | [English](https://blog.evanzhou.org/en/posts/te-2026-08-29) |
 | 07 | 8 月 22 日 | [当信号变成目标，制度就会忘记真正要解决什么](https://blog.evanzhou.org/zh/posts/te-2026-08-22) | [English](https://blog.evanzhou.org/en/posts/te-2026-08-22) |
 | 06 | 8 月 15 日 | [拥有控制权，不等于拥有行动能力](https://blog.evanzhou.org/zh/posts/te-2026-08-15) | [English](https://blog.evanzhou.org/en/posts/te-2026-08-15) |
 | 05 | 8 月 8 日 | [行动变得便宜，制度却要买单](https://blog.evanzhou.org/zh/posts/te-2026-08-08) | [English](https://blog.evanzhou.org/en/posts/te-2026-08-08) |
