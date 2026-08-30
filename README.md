@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-08-22: When Signals Become Targets, Systems Lose the Plot — [English](https://blog.evanzhou.org/en/posts/te-2026-08-22) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-22)
+> **Latest issue:** TE 2026-08-29: Power Can Compel Without Controlling — [English](https://blog.evanzhou.org/en/posts/te-2026-08-29) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-29)
 >
-> From AI consciousness and data-centre forecasts to China’s unemployment rate, stock indices, trade routes and the Strait of Hormuz, this issue shows how proxies become misleading when institutions start managing them as goals. It concludes with 10 useful English expressions.
+> From American deportations, tariffs and Iran sanctions to China’s extraterritorial laws, public-sector AI and humanoid robots, this issue shows why coercion becomes self-defeating when power outruns institutional capacity. It concludes with 10 useful English expressions.
 >
-> **Last updated:** August 22, 2026
+> **Last updated:** August 30, 2026
 
 ---
 
