@@ -79,6 +79,7 @@ Every review is published on the blog in both languages. This table is the index
 
 | No. | Edition | Review | 中文 |
 | ---: | --- | --- | --- |
+| 09 | September 5 | [The Bottleneck Is Usually Next Door](https://blog.evanzhou.org/en/posts/te-2026-09-05) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-09-05) |
 | 08 | August 29 | [Power Can Compel Without Controlling](https://blog.evanzhou.org/en/posts/te-2026-08-29) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-08-29) |
 | 07 | August 22 | [When Signals Become Targets, Systems Lose the Plot](https://blog.evanzhou.org/en/posts/te-2026-08-22) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-08-22) |
 | 06 | August 15 | [Control Is Not the Same as Capacity](https://blog.evanzhou.org/en/posts/te-2026-08-15) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-08-15) |
