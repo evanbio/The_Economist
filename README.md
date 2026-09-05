@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-08-29: Power Can Compel Without Controlling — [English](https://blog.evanzhou.org/en/posts/te-2026-08-29) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-08-29)
+> **Latest issue:** TE 2026-09-05: The Bottleneck Is Usually Next Door — [English](https://blog.evanzhou.org/en/posts/te-2026-09-05) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-09-05)
 >
-> From American deportations, tariffs and Iran sanctions to China’s extraterritorial laws, public-sector AI and humanoid robots, this issue shows why coercion becomes self-defeating when power outruns institutional capacity. It concludes with 10 useful English expressions.
+> From Nvidia's circular financing and America's data-centre backlash to India's UPI, women's work and Chinese food safety, this issue shows that progress is often constrained by the institution beside the breakthrough. It concludes with 10 useful English expressions.
 >
-> **Last updated:** August 30, 2026
+> **Last updated:** September 5, 2026
 
 ---
 
