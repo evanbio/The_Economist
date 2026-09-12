@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-09-05: The Bottleneck Is Usually Next Door — [English](https://blog.evanzhou.org/en/posts/te-2026-09-05) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-09-05)
+> **Latest issue:** TE 2026-09-12: The Difference Between a Claim and a Capacity — [English](https://blog.evanzhou.org/en/posts/te-2026-09-12) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-09-12)
 >
-> From Nvidia's circular financing and America's data-centre backlash to India's UPI, women's work and Chinese food safety, this issue shows that progress is often constrained by the institution beside the breakthrough. It concludes with 10 useful English expressions.
+> From Europe's argument over Islam and Germany's AfD to falling test scores, AI employment and free buses, this issue asks whether public claims survive contact with evidence and institutions. It ends with 10 useful English expressions.
 >
-> **Last updated:** September 5, 2026
+> **Last updated:** September 12, 2026
 
 ---
 
