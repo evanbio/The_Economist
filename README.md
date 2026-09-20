@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-09-12: The Difference Between a Claim and a Capacity — [English](https://blog.evanzhou.org/en/posts/te-2026-09-12) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-09-12)
+> **Latest issue:** TE 2026-09-19: Power Is What Can Be Verified and Delivered — [English](https://blog.evanzhou.org/en/posts/te-2026-09-19) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-09-19)
 >
-> From Europe's argument over Islam and Germany's AfD to falling test scores, AI employment and free buses, this issue asks whether public claims survive contact with evidence and institutions. It ends with 10 useful English expressions.
+> From an unverifiable AI truce and Russia's drone campaign to sovereign debt, South African crime and the uneven AI boom, this issue argues that power lies in enforceable capacity rather than declared intent. It ends with 10 useful English expressions.
 >
-> **Last updated:** September 12, 2026
+> **Last updated:** September 20, 2026
 
 ---
 
