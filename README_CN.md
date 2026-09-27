@@ -79,6 +79,7 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 | 期号 | 出刊日期 | Review | English |
 | ---: | --- | --- | --- |
+| 12 | 9 月 26 日 | [捷径不会消除成本，只会转移成本](https://blog.evanzhou.org/zh/posts/te-2026-09-26) | [English](https://blog.evanzhou.org/en/posts/te-2026-09-26) |
 | 11 | 9 月 19 日 | [权力取决于能否验证与落实](https://blog.evanzhou.org/zh/posts/te-2026-09-19) | [English](https://blog.evanzhou.org/en/posts/te-2026-09-19) |
 | 10 | 9 月 12 日 | [主张与能力之间的距离](https://blog.evanzhou.org/zh/posts/te-2026-09-12) | [English](https://blog.evanzhou.org/en/posts/te-2026-09-12) |
 | 09 | 9 月 5 日 | [真正的瓶颈通常就在隔壁](https://blog.evanzhou.org/zh/posts/te-2026-09-05) | [English](https://blog.evanzhou.org/en/posts/te-2026-09-05) |

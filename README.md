@@ -79,6 +79,7 @@ Every review is published on the blog in both languages. This table is the index
 
 | No. | Edition | Review | 中文 |
 | ---: | --- | --- | --- |
+| 12 | September 26 | [Shortcuts Move Costs Rather Than Remove Them](https://blog.evanzhou.org/en/posts/te-2026-09-26) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-09-26) |
 | 11 | September 19 | [Power Is What Can Be Verified and Delivered](https://blog.evanzhou.org/en/posts/te-2026-09-19) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-09-19) |
 | 10 | September 12 | [The Difference Between a Claim and a Capacity](https://blog.evanzhou.org/en/posts/te-2026-09-12) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-09-12) |
 | 09 | September 5 | [The Bottleneck Is Usually Next Door](https://blog.evanzhou.org/en/posts/te-2026-09-05) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-09-05) |
