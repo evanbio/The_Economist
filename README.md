@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-09-26: Shortcuts Move Costs Rather Than Remove Them — [English](https://blog.evanzhou.org/en/posts/te-2026-09-26) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-09-26)
+> **Latest issue:** TE 2026-10-03: Greater Capacity Needs Better Rules — [English](https://blog.evanzhou.org/en/posts/te-2026-10-03) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-10-03)
 >
-> From AI-written prose and ineffective surgery to housing, American retrenchment and data-centre insurance, this issue shows how apparent shortcuts shift costs rather than eliminate them. It ends with 10 useful English expressions.
+> From effective altruism and AI taxation to China's infrastructure, energy bottlenecks and mirror life, this issue asks who governs expanding productive power and shares its gains. It ends with 10 useful English expressions.
 >
-> **Last updated:** September 27, 2026
+> **Last updated:** October 6, 2026
 
 ---
 
