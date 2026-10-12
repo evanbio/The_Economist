@@ -79,6 +79,7 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 | 期号 | 出刊日期 | Review | English |
 | ---: | --- | --- | --- |
+| 14 | 10 月 10 日 | [每个承诺，都得有人买单](https://blog.evanzhou.org/zh/posts/te-2026-10-10) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-10) |
 | 13 | 10 月 3 日 | [更强的能力，需要更好的规则](https://blog.evanzhou.org/zh/posts/te-2026-10-03) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-03) |
 | 12 | 9 月 26 日 | [捷径不会消除成本，只会转移成本](https://blog.evanzhou.org/zh/posts/te-2026-09-26) | [English](https://blog.evanzhou.org/en/posts/te-2026-09-26) |
 | 11 | 9 月 19 日 | [权力取决于能否验证与落实](https://blog.evanzhou.org/zh/posts/te-2026-09-19) | [English](https://blog.evanzhou.org/en/posts/te-2026-09-19) |

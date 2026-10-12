@@ -79,6 +79,7 @@ Every review is published on the blog in both languages. This table is the index
 
 | No. | Edition | Review | 中文 |
 | ---: | --- | --- | --- |
+| 14 | October 10 | [Every Promise Needs Someone to Pay](https://blog.evanzhou.org/en/posts/te-2026-10-10) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-10-10) |
 | 13 | October 3 | [Greater Capacity Needs Better Rules](https://blog.evanzhou.org/en/posts/te-2026-10-03) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-10-03) |
 | 12 | September 26 | [Shortcuts Move Costs Rather Than Remove Them](https://blog.evanzhou.org/en/posts/te-2026-09-26) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-09-26) |
 | 11 | September 19 | [Power Is What Can Be Verified and Delivered](https://blog.evanzhou.org/en/posts/te-2026-09-19) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-09-19) |
