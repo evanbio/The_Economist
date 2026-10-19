@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-10-10: Every Promise Needs Someone to Pay — [English](https://blog.evanzhou.org/en/posts/te-2026-10-10) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-10-10)
+> **Latest issue:** TE 2026-10-17: Progress Needs People Who Can Still Say No — [English](https://blog.evanzhou.org/en/posts/te-2026-10-17) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-10-17)
 >
-> From sovereign debt and LNG shortages to Europe's China strategy, AI oversight and scientific evidence, this issue tests whether promises come with the resources and accountability needed to honour them. It ends with 10 useful English expressions.
+> From AI-made science and Canada's search for autonomy to battery recycling, climate preparedness and millennials' recovery, this issue asks who retains the ability to test claims and change course. It ends with 10 useful English expressions.
 >
-> **Last updated:** October 12, 2026
+> **Last updated:** October 19, 2026
 
 ---
 
