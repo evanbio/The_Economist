@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-10-17: Progress Needs People Who Can Still Say No — [English](https://blog.evanzhou.org/en/posts/te-2026-10-17) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-10-17)
+> **Latest issue:** TE 2026-10-24: The Bill Behind the Promise — [English](https://blog.evanzhou.org/en/posts/te-2026-10-24) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-10-24)
 >
-> From AI-made science and Canada's search for autonomy to battery recycling, climate preparedness and millennials' recovery, this issue asks who retains the ability to test claims and change course. It ends with 10 useful English expressions.
+> From Europe's fiscal anger and Gulf rivalries to AI debt, Alaska's dividends and the funding of science, this issue asks whether those making promises also confront their costs. It ends with 10 useful English expressions.
 >
-> **Last updated:** October 19, 2026
+> **Last updated:** October 24, 2026
 
 ---
 
