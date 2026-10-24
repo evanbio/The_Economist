@@ -79,6 +79,7 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 | 期号 | 出刊日期 | Review | English |
 | ---: | --- | --- | --- |
+| 16 | 10 月 24 日 | [承诺背后的账单](https://blog.evanzhou.org/zh/posts/te-2026-10-24) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-24) |
 | 15 | 10 月 17 日 | [进步需要仍有能力说“不”的人](https://blog.evanzhou.org/zh/posts/te-2026-10-17) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-17) |
 | 14 | 10 月 10 日 | [每个承诺，都得有人买单](https://blog.evanzhou.org/zh/posts/te-2026-10-10) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-10) |
 | 13 | 10 月 3 日 | [更强的能力，需要更好的规则](https://blog.evanzhou.org/zh/posts/te-2026-10-03) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-03) |
