@@ -13,11 +13,11 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-10-24: The Bill Behind the Promise — [English](https://blog.evanzhou.org/en/posts/te-2026-10-24) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-10-24)
+> **Latest issue:** TE 2026-10-31: Growth Needs a Way In — [English](https://blog.evanzhou.org/en/posts/te-2026-10-31) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-10-31)
 >
-> From Europe's fiscal anger and Gulf rivalries to AI debt, Alaska's dividends and the funding of science, this issue asks whether those making promises also confront their costs. It ends with 10 useful English expressions.
+> From swing voters and India's jobs problem to British infrastructure, AI competition and Wikipedia, this issue asks how progress becomes something people can participate in. It ends with 10 useful English expressions.
 >
-> **Last updated:** October 24, 2026
+> **Last updated:** November 1, 2026
 
 ---
 
