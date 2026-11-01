@@ -79,6 +79,7 @@ Every review is published on the blog in both languages. This table is the index
 
 | No. | Edition | Review | 中文 |
 | ---: | --- | --- | --- |
+| 17 | October 31 | [Growth Needs a Way In](https://blog.evanzhou.org/en/posts/te-2026-10-31) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-10-31) |
 | 16 | October 24 | [The Bill Behind the Promise](https://blog.evanzhou.org/en/posts/te-2026-10-24) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-10-24) |
 | 15 | October 17 | [Progress Needs People Who Can Still Say No](https://blog.evanzhou.org/en/posts/te-2026-10-17) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-10-17) |
 | 14 | October 10 | [Every Promise Needs Someone to Pay](https://blog.evanzhou.org/en/posts/te-2026-10-10) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-10-10) |
