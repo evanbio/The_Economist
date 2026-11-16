@@ -13,9 +13,9 @@ English | [简体中文](./README_CN.md)
 ---
 
 > [!NOTE]
-> **Latest issue:** TE 2026-11-07: Power Needs a Working System — [English](https://blog.evanzhou.org/en/posts/te-2026-11-07) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-11-07)
+> **Latest issue:** TE 2026-11-14: Useful Progress, Uncertain Returns — [English](https://blog.evanzhou.org/en/posts/te-2026-11-14) | [中文](https://blog.evanzhou.org/zh/posts/te-2026-11-14)
 >
-> From America's midterm upheaval and AI cyber threats to consumer medicine, scientific proof and household insecurity, this issue asks what turns new power into reliable results. It ends with 10 useful English expressions.
+> From AI valuations and China's clean-energy exports to Hollywood, political coalitions and neglected health needs, this issue separates the value of progress from the returns people expect to capture. It ends with 10 useful English expressions.
 >
 > **Last updated:** November 16, 2026
 
