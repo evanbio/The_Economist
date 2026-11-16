@@ -79,6 +79,7 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 | 期号 | 出刊日期 | Review | English |
 | ---: | --- | --- | --- |
+| 18 | 11 月 7 日 | [力量需要一套运转得起来的制度](https://blog.evanzhou.org/zh/posts/te-2026-11-07) | [English](https://blog.evanzhou.org/en/posts/te-2026-11-07) |
 | 17 | 10 月 31 日 | [增长需要让人参与其中](https://blog.evanzhou.org/zh/posts/te-2026-10-31) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-31) |
 | 16 | 10 月 24 日 | [承诺背后的账单](https://blog.evanzhou.org/zh/posts/te-2026-10-24) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-24) |
 | 15 | 10 月 17 日 | [进步需要仍有能力说“不”的人](https://blog.evanzhou.org/zh/posts/te-2026-10-17) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-17) |
