@@ -79,6 +79,7 @@ Every review is published on the blog in both languages. This table is the index
 
 | No. | Edition | Review | 中文 |
 | ---: | --- | --- | --- |
+| 20 | November 21 | [The Cost of Governing in the Dark](https://blog.evanzhou.org/en/posts/te-2026-11-21) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-11-21) |
 | 19 | November 14 | [Useful Progress, Uncertain Returns](https://blog.evanzhou.org/en/posts/te-2026-11-14) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-11-14) |
 | 18 | November 7 | [Power Needs a Working System](https://blog.evanzhou.org/en/posts/te-2026-11-07) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-11-07) |
 | 17 | October 31 | [Growth Needs a Way In](https://blog.evanzhou.org/en/posts/te-2026-10-31) | [中文版](https://blog.evanzhou.org/zh/posts/te-2026-10-31) |

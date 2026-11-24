@@ -79,6 +79,7 @@ Review 使用中性编辑口吻；作者精读则保留更多个人视角。
 
 | 期号 | 出刊日期 | Review | English |
 | ---: | --- | --- | --- |
+| 20 | 11 月 21 日 | [治理失准的代价](https://blog.evanzhou.org/zh/posts/te-2026-11-21) | [English](https://blog.evanzhou.org/en/posts/te-2026-11-21) |
 | 19 | 11 月 14 日 | [进步有价值，回报未必兑现](https://blog.evanzhou.org/zh/posts/te-2026-11-14) | [English](https://blog.evanzhou.org/en/posts/te-2026-11-14) |
 | 18 | 11 月 7 日 | [力量需要一套运转得起来的制度](https://blog.evanzhou.org/zh/posts/te-2026-11-07) | [English](https://blog.evanzhou.org/en/posts/te-2026-11-07) |
 | 17 | 10 月 31 日 | [增长需要让人参与其中](https://blog.evanzhou.org/zh/posts/te-2026-10-31) | [English](https://blog.evanzhou.org/en/posts/te-2026-10-31) |
